@@ -8,7 +8,7 @@ Neste primeiro episódio do podcast **Conexões Globais**, Marcelo Diniz explica
 O conteúdo foi criado com o apoio de **IAs generativas** (ChatGPT e ElevenLabs), mostrando o impacto da inovação no cenário global.
 
 🎧 **Ouça agora:**  
-👉 [Acesse o episódio no Spotify](https://open.spotify.com/) 
+👉 [Acesse o episódio no Spotify] https://spotifycreators-web.app.link/e/TnLpinAZbYb
 
 
 ## 🧠 Tecnologias Utilizadas
